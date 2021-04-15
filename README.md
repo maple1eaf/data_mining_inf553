@@ -1,4 +1,7 @@
 # data_mining_inf553
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-2B5A8E.svg)](https://www.python.org/)
+[![made-with-spark](https://img.shields.io/badge/Made%20with-Spark-D75416.svg)](https://spark.apache.org/)
+[![MIT license](https://img.shields.io/badge/License-MIT-green.svg)](https://lbesson.mit-license.org/)
 
 ## Description
 USC course INF553 - Foundations and Applications of Data Mining. Assignments and Project.
