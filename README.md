@@ -19,4 +19,4 @@ All assignments and project are programmed by Python. Spark techniques are used 
 |4|[Graph Network Algorithm](./assignment/assignment4/assignment4_description.pdf)|[Python](./assignment/assignment4/python)|`Betweenness` `Communities Detection` `Girvan-Newman Algorithm`|38.7k Lines (1.8MB)|
 |5|[Social-Network Graphs](./assignment/assignment5/assignment5_description.pdf)|[Python](./assignment/assignment5/python)|`K-Means` `Bradley-Fayyad-Reina(BFR) Algorithm` `NMI`|1.46M Lines (666MB)|
 |6|[Mining Data Streaming](./assignment/assignment6/assignment6_description.pdf)|[Python](./assignment/assignment6/python)|`Bloom Filter` `Flajolet-Martin Algorithm` `Twitter Streaming` `Reservoir Sampling`|0.38M Lines (293MB) + steaming data|
-|-|[Hybrid Recommendation System](./project/description.pdf)|[python](./project/deliver)|`Content-Boosted Collaborative Filtering` `Profile` `Jaccard Similarity` `ALS Algoorithm`|1.39M (1.31GB)|
+|-|[Hybrid Recommendation System](./project/description.pdf)|[python](./project/deliver)|`Content-Boosted Collaborative Filtering` `Profile` `Jaccard Similarity` `ALS Algorithm`|1.39M (1.31GB)|
