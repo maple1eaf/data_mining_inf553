@@ -9,7 +9,7 @@ USC course INF553 - Foundations and Applications of Data Mining. Assignments and
 Final Grade - A
 
 ## Assignments & Project
-All assignments and project are programmed by Python. Spark techniques are used because of the large dataset and distributed computing requirement.
+All assignments and project are programmed by Python. Spark techniques are used because of the large dataset and distributed computing requirement. The dataset of each topic is in this [link](https://drive.google.com/drive/folders/1GmkDgMzoGu9Si8asgBaWuRpeXrMpCbX8?usp=sharing).
 
 |#|    Topic    |Programming|Tags|Data Scale|
 |---|------------------------|-----------|----|--|
